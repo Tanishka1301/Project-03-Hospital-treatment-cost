@@ -304,4 +304,3 @@ st.divider()
 st.caption(
 "❤️ Diabetes Prediction App | Built with Streamlit & Machine Learning"
 )
-```
